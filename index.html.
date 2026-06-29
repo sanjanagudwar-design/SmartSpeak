@@ -2032,7 +2032,7 @@ body {
 // ═══════════════════════════════════════
 // CONFIG — replace with your key
 // ═══════════════════════════════════════
-const GEMINI_KEY = 'YOUR_GEMINI_API_KEY_HERE';
+const GEMINI_KEY = 'AQ.Ab8RN6KxJ0gg3xpuYL1OTk1BsEnriYS1cO1xCVrvPI3JxJFXBg';
 const GEMINI_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${GEMINI_KEY}`;
 
 // ═══════════════════════════════════════
